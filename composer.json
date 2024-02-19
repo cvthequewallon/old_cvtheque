@@ -1,0 +1,8 @@
+{
+    "name": "vendor/name",
+    "type": "boostrap",
+    "license": "1.5",
+    "require": {
+        "dompdf/dompdf": "^1.0"
+    }
+}

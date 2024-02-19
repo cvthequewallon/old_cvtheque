@@ -1,0 +1,47 @@
+nav{
+    background-color: #363636;
+}
+body{
+    background-color: #111010;
+}
+hr{
+    background-color: white;
+}
+.shadow{
+    background-color: #1A1919;
+}
+.card{
+    background-color: #1A1919;
+}
+.modal-content{
+    background-color: #1A1919;
+}
+
+
+p{
+    color:white;
+}
+h1{
+    color:white;
+}
+h2{
+    color:white;
+}
+h3{
+    color:white;
+}
+h4{
+    color:white;
+}
+h5{
+    color:white;
+}
+a{
+    color:white;
+}
+label{
+    color: white;
+}
+.card-header{
+    color:white;
+}
